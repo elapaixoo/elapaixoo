@@ -5,9 +5,7 @@
 <br>
 
 <p align="center">
-  Computer Science student focused on <strong>Software Engineering. Interested in backend development with Java and web technologies such as HTML, CSS, and JavaScript.</strong> Constantly improving my technical skills and aiming to build efficient, well-structured solutions.
-  <br>
-  I also have experience in graphic design, which I continue to explore as a personal interest, <strong>mainly through editing and creating projects on Figma.</strong>
+  Computer Science student focused on <strong>Software Engineering. Interested in backend development with Java and web technologies such as HTML, CSS, and JavaScript.</strong> Constantly improving my technical skills and aiming to build efficient, well-structured solutions. I also have experience in graphic design, which I continue to explore as a personal interest, <strong>mainly through editing and creating projects on Figma.</strong>
 </p>
 
 <br>
