@@ -30,17 +30,3 @@
 <br>
 <br>
 <br>
-
-<div align="center">
-  <p>
-    <b>
-      Contact me:
-    </b>
-  </p>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielapaixo@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/elapaixo/)
-  [![Discord](https://img.shields.io/badge/Discord-755b25?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabriela-da-paix%C3%A3o-santos-758674376/)
-  
-</div>
